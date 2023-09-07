@@ -1,0 +1,47 @@
+/* src/App.css */
+
+/* Styling for NavigationBar */
+nav {
+  background-color: lightgray;
+  padding: 10px;
+}
+
+/* Styling for the MainSection */
+section {
+  text-align: center;
+}
+.main-section {
+  background: black;
+  color: white;
+  padding: 60px;
+  text-align: center;
+}
+
+.main-section h1 {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.main-section p {
+  font-size: 24px;
+  margin-bottom: 40px;
+}
+
+
+/* Styling for Footer */
+footer {
+  background-color: rgba(0, 0, 0, 0);
+  padding: 10px;
+  text-align: center;
+}
+
+/* Styling for App.css or any other CSS file */
+.small-image {
+  width: 200px;
+  height: auto;
+  background-color: rgb(255, 249, 66);
+  padding: 20px;
+}
+
+
